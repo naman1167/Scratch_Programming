@@ -9,6 +9,13 @@ This repository showcases various interactive games and projects created with Sc
 - User interactions 🖱️  
 - Sound effects and music 🎵  
 
+## 📂 Project List  
+Each folder contains a Scratch `.sb3` file along with a brief description of the project.  
+
+- **🕰️ Scratch Clock** - A functional clock that displays the current time in real-time.  
+- **🐉 Dragon Game** - A fun and interactive game featuring a dragon as the main character.  
+- _(More projects will be added over time!)_  
+
 ## 🚀 How to Use  
 1. Download the `.sb3` file from this repository.  
 2. Open [Scratch](https://scratch.mit.edu/) in your browser or use the Scratch offline editor.  
