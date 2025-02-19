@@ -14,6 +14,7 @@ Each folder contains a Scratch `.sb3` file along with a brief description of the
 
 - **🕰️ Scratch Clock** - A functional clock that displays the current time in real-time.  
 - **🐉 Dragon Game** - A fun and interactive game featuring a dragon as the main character.  
+- **📹 Video Sensing Project** - An interactive project that uses webcam motion detection for gameplay.  
 - _(More projects will be added over time!)_  
 
 ## 🚀 How to Use  
