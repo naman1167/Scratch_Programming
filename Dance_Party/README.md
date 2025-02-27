@@ -19,7 +19,7 @@ Dance Party is a Scratch project that features animated characters dancing to mu
 
 ## 🖥️ How to Access
 You can view and remix this project on Scratch by visiting: 
-[Scratch Project Link](https://github.com/naman1167/Scratch_Programming/tree/main/Dragon_Game) 
+[Scratch Project Link](https://github.com/naman1167/Scratch_Programming/tree/main/Dance_Party) 
 
 ## 📷 Preview
 *(Optional: Add a screenshot or GIF of your project here.)*
